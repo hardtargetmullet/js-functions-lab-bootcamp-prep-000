@@ -1,5 +1,6 @@
 // write your code below!
-function happyHolidaysre
+function happyHolidays() {
+  return "Happy holidays!"
 }
 
 function happyHolidaysTo() {
